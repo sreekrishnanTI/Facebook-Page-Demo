@@ -17,11 +17,11 @@ body{
 
 .form-container{
     background-color: #ffff;
-    padding: 20px;
+    padding: 3vw;
     border-radius: 12px;
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
 }
 #fb-text{
-    padding-left: 7vw;
+    padding-left: 14vw;
     color: blue;
 }
