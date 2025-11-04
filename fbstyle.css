@@ -1,45 +1,6 @@
-#Outer{
+.header{
     display: flex;
-    flex-direction: column;
-    height: 800px;
-    background-color: #ebedf1;
 }
-
-.updownB{
-    width: 100%;
-    height: 150px;
-    border: 2px solid #ccc;
-}
-
-.centerB{
-    width: 100%;
-    height: 500px;
-    border: 2px solid #ccc;
-    margin-top: auto;
-}
-.img{
-    justify-content: center;
-    border: 2px solid #5d5d5d;
-}
-
-.fblogo{
-    width: 400px;
-    height: 200px;
-    margin-left: 50px;
-    border-radius: 5px;
-    border: 2px solid #ccc;
-    float: left;
-}
-.bottontext{
-    margin-bottom: auto;
-}
-.login{
-    width: 300px;
-    height: 160px;
-    margin-top: 20px;
-    border-radius: 5px;
-    background-color: #ffffff;
-    padding: 10px;
-    margin-left: 400px;
-    float: left;
+.logo{
+    
 }
