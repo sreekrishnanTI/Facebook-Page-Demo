@@ -130,6 +130,10 @@ body {
     font-size: small;
     margin-bottom: 5vw;
 }
+.footer-links{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
 .para{
     word-spacing: 1vw;
 }
