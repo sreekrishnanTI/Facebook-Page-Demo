@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container-box {
+    background: #e4e6ea;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.fb-logo {
+    width: 20vw;
+    margin-top: 15vw;
+}
+.description {
+    font-family: Arial, sans-serif;
+    color: #1c1e21;
+    margin-left: 1vw;
+    font-size:1vw;
+    margin-top: 0;
+    width: 35ch;
+    
+}
+#outer-login-box{
+    height: 40vw;
+    width: 35vw;
+    display: flex;
+
+    justify-content: center;
+    flex-direction: column;
+}
+.login-box{
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+    width: 30vw;
+    height: 20vw;
+    margin-top: 100px;
+    margin-left: 2vw;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+.items{
+    text-align: left;
+    width: 90%;
+    height: 40px;
+    margin: 5px;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 6px;
+    font-weight: 300;
+    font-family: Arial, sans-serif;
+}
+#login-btn{
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 90%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+#forgot{
+    font-size: 12px;
+    color: #1877f2;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    margin-top: 1px;   
+}
+#line{
+    width: 100%;
+    border: 0.5px solid #dddfe2;
+    align-content: center;
+    display: inline-block;
+    padding: 0px;
+    margin-top: 20px;
+}
+#new-btn{
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 7px;
+    text-align: center;
+    padding-bottom: 2vw;
+}
+.creator-page{
+    font-size: 8vw;
+    color: #1c1e21;
+    margin-top: 2vw;
+    text-align: center;
+    font: 1em sans-serif;
+    padding-right: 3vw;
+}
+#cap{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+.footer{
+    font-size: 12px;
+    color: #65676b;
+    margin-top: 50px;
+    text-align: left;
+    padding-inline: 20vw;
+    margin-bottom: 2vw;
+}
+.flink{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #95979b;
+    font: 1em sans-serif;
+    font-size: small;
+    margin-bottom: 5vw;
+}
+.para{
+    word-spacing: 1vw;
+}
